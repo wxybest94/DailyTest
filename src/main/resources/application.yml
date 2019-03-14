@@ -1,0 +1,7 @@
+appKey: 1
+appSecret: 1
+bucket: seven
+endPoint: https://www.aliyun.com
+
+server:
+  port: 8081
